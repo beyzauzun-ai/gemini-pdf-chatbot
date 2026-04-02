@@ -23,10 +23,16 @@ It allows users to upload a PDF and ask questions about its content.
 - Python
 - Streamlit
 - Google Gemini API
+- 
+## 🎯 Project Goal
+This project was built to practice developing real-world AI applications using LLMs and document-based question answering systems.
 
 ## ▶️ How to Run
+Follow these steps to run the project locally:
+
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-## 🎯 Project Goal
-This project was built to practice developing real-world AI applications using LLMs and document-based question answering systems.
+
+
+
